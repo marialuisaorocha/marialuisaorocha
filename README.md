@@ -2,11 +2,11 @@
 <h3 align="center">A development back-end student</h3>
 <b>⚡Curiosities about me<br></b>
 
- - 👩‍🎓I'm currently a student at Unicid.
+ - 👩‍🎓I'm currently a last semester student at Unicid.
  - 🎮I'm a gamer and sometimes I do lives at [Twitch](https://www.twitch.tv/maahldade).
  - 🎎 I love animes and the japanese culture. 
- - 🛫My dreams is to live in another country, such as Japan or Canada.
- - 🧏🏻I love helping people and I am passionate about solving problems and learning. Always open to new challenges and ready to face new changes.
+ - 🛫My dream is to live in another country, such as Japan or Canada.
+ - 🧏🏻I love helping people and I'm passionate about solving problems and learning. Always open to new challenges and ready to face new changes.
 
 <b>🌱Currently I'm learning...</b>
 
