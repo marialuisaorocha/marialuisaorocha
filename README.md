@@ -11,7 +11,7 @@
 <b>🌱Currently I'm learning...</b>
  - Python
  - SQL
- - HTML & CSS
+ - HTML & CSS & Javascript
  - Node.js
 
 <b>📫How to contact me</b>
