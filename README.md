@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">,  I'm Maria</h1>
-<h3 align="center">A development back-end student</h3>
+<h3 align="center">A full-stack development student</h3>
 
 <b>⚡Curiosities about me<br></b>
  - 👩‍🎓I'm currently a last semester student at Unicid.
